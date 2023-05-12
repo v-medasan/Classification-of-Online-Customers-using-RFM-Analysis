@@ -15,7 +15,7 @@ There are three major parts to the project -
 2. Data Modeling 
 3. Classification
 
-We will use R for the entirety of the project.
+R programming language was used for the entirety of the project.
 
 
 
