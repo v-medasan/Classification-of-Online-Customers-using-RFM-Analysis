@@ -6,3 +6,16 @@ In today's world, online shopping has become incredibly popular, making it a pro
 ## Dataset
 
 The dataset for this project was obtained from the UC Irvine Machine Learning Repository and can be found [here](https://archive-beta.ics.uci.edu/dataset/502/online+retail+ii). This dataset contains all the transactions that occurred in a UK-based non-store online retail, between the dates 01/12/2009- 09/12/2011. The UK- based company sells mainly unique occasion giftware.
+
+## Overview
+
+The aim of this project is to segment customers based on their spending habits and help classify them to help increase the profitability of the business. This will allow businesses to develop strategies to increase customer spending. 
+There are three major parts to the project - 
+1. Data Pre-Processing 
+2. Data Modeling 
+3. Classification
+
+We will use R for the entirety of the project.
+
+
+
